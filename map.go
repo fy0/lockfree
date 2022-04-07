@@ -15,7 +15,7 @@
 package lockfree
 
 import (
-	"github.com/dustinxie/lockfree/hashmap"
+	"github.com/fy0/lockfree/hashmap"
 )
 
 type (

@@ -20,7 +20,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/dustinxie/lockfree/hashmap"
+	"github.com/fy0/lockfree/hashmap"
 )
 
 func TestNewHashMap(t *testing.T) {

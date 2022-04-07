@@ -1,4 +1,4 @@
-module github.com/dustinxie/lockfree
+module github.com/fy0/lockfree
 
 go 1.15
 

@@ -15,7 +15,7 @@
 package lockfree
 
 import (
-	"github.com/dustinxie/lockfree/list"
+	"github.com/fy0/lockfree/list"
 )
 
 type (
